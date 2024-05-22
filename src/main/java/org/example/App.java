@@ -10,5 +10,6 @@ public class App
     {
 
         System.out.println( "my first commit" );
+        System.out.println("b" );
     }
 }
